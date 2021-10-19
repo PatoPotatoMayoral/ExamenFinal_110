@@ -46,7 +46,10 @@ Ejemplo1 de ejecución del programa:<br>
 2   <--- constante 
 3-4-5  <--- cada uno de los renglones
 5-6-4
-2-10-9        
+2-10-9  
+```
+### Salida
+```      
 [[3, 4, 5], [5, 6, 4], [2, 10, 9]]   <--- Matriz con los números enteros
 [[6, 8, 10], [10, 12, 8], [4, 20, 18]]  <--- Matriz con los números multiplicados por la constante (2) 
 ```
@@ -57,6 +60,9 @@ Ejemplo2 de ejecución del programa:<br>
 5
 6-7-5-4
 9-8-10-11
+```
+### Salida
+```      
 [[6, 7, 5, 4], [9, 8, 10, 11]]
 [[30, 35, 25, 20], [45, 40, 50, 55]]
 ```
