@@ -21,25 +21,25 @@ Desarrolla la función convierte_matriz_enteros para convertir los numeros (stri
 
 Desarrolla la función multiplica_constante que recibe una matriz de enteros y una constante, la función debe regresar la matriz con cada uno de sus elementos multiplicado por la constante
 
-El programa deberá: 
-1.- Solicitar la cantidad de renglones
-2.- Solicitar la constante
-3.- Llamar la función leer_matriz  (el usuario ingresa los renglones correspondientes)
-4.- Llamar a la función convierte_matriz_enteros 
-5.- Imprimir la matriz de enteros "print (matriz)" 
-6.- Llamar a la función multiplica_constante 
-7.- Imprimir la matriz con cada uno de los elementos multiplicado por la constante  "print (matriz)" 
+El programa deberá:<br>
+1.- Solicitar la cantidad de renglones<br>
+2.- Solicitar la constante<br>
+3.- Llamar la función leer_matriz  (el usuario ingresa los renglones correspondientes)<br>
+4.- Llamar a la función convierte_matriz_enteros <br>
+5.- Imprimir la matriz de enteros "print (matriz)" <br>
+6.- Llamar a la función multiplica_constante <br>
+7.- Imprimir la matriz con cada uno de los elementos multiplicado por la constante  "print (matriz)" <br>
 
 
 
 Entrada <br>
-Número de renglones de la matriz
-Constante (por la cual será multiplicado cada elemento de la matriz)
-Los datos de la matriz que son renglones separados por un "-" 
+Número de renglones de la matriz <br>
+Constante (por la cual será multiplicado cada elemento de la matriz)<br>
+Los datos de la matriz que son renglones separados por un "-" <br>
 
 Salida<br>
-Una matriz con los enteros ingresados
-Una matriz con sus elementos multiplicados por la constante
+Una matriz con los enteros ingresados<br>
+Una matriz con sus elementos multiplicados por la constante<br>
 
 Ejemplo1 de ejecución del programa:<br>
 ```
