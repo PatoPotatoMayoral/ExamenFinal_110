@@ -14,7 +14,7 @@ if __name__ == '__main__':
 <h3>Multiplica matriz por constante</h3>
 Desarrolla la función leer_matriz para leer la matriz, la cual recibe el número de renglones (num_ren). 
 En la función se deberán pedir los renglones, cada renglon que se solicita tiene el siguiente formato: 
-12-5-1, es decir cada uno de los números va separado por un "-". La función debe regresar la matriz con los números en string. <br>
+12-5-1, es decir cada uno de los números va separado por un "-". La función debe regresar la matriz con los números en string. <br><br>
 
 Desarrolla la función convierte_matriz_enteros para convertir los numeros (string) a enteros, la función recibe como parámetro de entrada la matriz con los datos y regresa la matriz ya con los números enteros (int) <br>
 
